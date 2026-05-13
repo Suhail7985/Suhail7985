@@ -71,26 +71,10 @@ Interactive React-based website focused on animations and modern UI experience.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat" />
 </p>
