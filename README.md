@@ -41,36 +41,6 @@
 
 ---
 
-## Featured Projects
-
-### Dessert Lab
-Modern dessert ordering platform with cart and payment integration.
-
-**Tech Used:** React.js, Node.js, MongoDB
-
----
-
-### MERN Todo App
-Task management application with authentication and CRUD operations.
-
-**Tech Used:** MongoDB, Express.js, React.js, Node.js
-
----
-
-### Career Guidance Platform
-Web application helping students explore career paths after 10th and 12th.
-
-**Tech Used:** React.js, JavaScript
-
----
-
-### Hey Beautiful
-Interactive React-based website focused on animations and modern UI experience.
-
-**Tech Used:** React.js, Framer Motion
-
----
-
 ## Connect With Me
 
 <p align="left">
