@@ -1,4 +1,4 @@
-<h1 align="center">Suhail</h1>
+<h1 align="center">Mohd Suhail</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
 
 <p align="center">
@@ -77,14 +77,6 @@ Interactive React-based website focused on animations and modern UI experience.
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
